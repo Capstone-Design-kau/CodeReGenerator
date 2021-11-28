@@ -45,3 +45,9 @@ If someone does coding using this editor, everyone can see the all process of co
     ├── store
     └── styles
 ```
+
+## Usage
+
+```
+npm start
+```
