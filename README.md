@@ -13,13 +13,12 @@ If someone does coding using this editor, everyone can see the all process of co
 - Styled-components
 - Material-Ui
 
-![image](https://user-images.githubusercontent.com/19369750/143734812-06002dd2-7141-45be-8a8c-213d62377eda.png)
-![image](https://user-images.githubusercontent.com/19369750/143734823-a945a462-5993-449c-b4f3-e26cd9260ff7.png)
-![image](https://user-images.githubusercontent.com/19369750/143734836-c55c8b92-99f3-4ba0-9b28-178e4279e2d4.png)
-![image](https://user-images.githubusercontent.com/19369750/143734850-ba90b2dd-954a-4b8c-aa61-98e1c2f2db99.png)
-
+|<img style="width:300px" src="https://user-images.githubusercontent.com/19369750/143734812-06002dd2-7141-45be-8a8c-213d62377eda.png" />| <img style="width:300px;" src="https://user-images.githubusercontent.com/19369750/143734823-a945a462-5993-449c-b4f3-e26cd9260ff7.png" />
+|------|---|
+|<img style="width:300px" src="https://user-images.githubusercontent.com/19369750/143734836-c55c8b92-99f3-4ba0-9b28-178e4279e2d4.png" />| <img style="width:300px;" src="https://user-images.githubusercontent.com/19369750/143734850-ba90b2dd-954a-4b8c-aa61-98e1c2f2db99.png" />
 
 ## File directory
+```
 .
 ├── README.md
 ├── jsconfig.json
@@ -45,4 +44,4 @@ If someone does coding using this editor, everyone can see the all process of co
     ├── setupTests.js
     ├── store
     └── styles
-
+```
