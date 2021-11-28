@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# React Code Regenerator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Open Soucre Project is for Capstone Desgin 2021. Team CATT.\
+This is yet beta version, not published in NPM.\
+It will be updatated continuously.
 
-## Available Scripts
+This Project is React(not typescript) editor for regenerating coding process.\
+If someone does coding using this editor, everyone can see the all process of coding in future like time machine.
 
-In the project directory, you can run:
+## Frameworks
+- React version 17
+- Redux, redux-toolkit
+- Styled-components
+- Material-Ui
 
-### `npm start`
+![image](https://user-images.githubusercontent.com/19369750/143734812-06002dd2-7141-45be-8a8c-213d62377eda.png)
+![image](https://user-images.githubusercontent.com/19369750/143734823-a945a462-5993-449c-b4f3-e26cd9260ff7.png)
+![image](https://user-images.githubusercontent.com/19369750/143734836-c55c8b92-99f3-4ba0-9b28-178e4279e2d4.png)
+![image](https://user-images.githubusercontent.com/19369750/143734850-ba90b2dd-954a-4b8c-aa61-98e1c2f2db99.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## File directory
+.
+├── README.md
+├── jsconfig.json
+├── package-lock.json
+├── package.json
+├── public
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+└── src
+    ├── App.js
+    ├── components
+    ├── constant
+    ├── data-structure
+    ├── hooks
+    ├── index.js
+    ├── logo.svg
+    ├── reportWebVitals.js
+    ├── routes
+    ├── setupTests.js
+    ├── store
+    └── styles
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
