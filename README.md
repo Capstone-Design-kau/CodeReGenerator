@@ -7,6 +7,9 @@ It will be updatated continuously.
 This Project is React(not typescript) editor for regenerating coding process.\
 If someone does coding using this editor, everyone can see the all process of coding in future like time machine.
 
+## Demo
+![image](https://user-images.githubusercontent.com/19369750/143735527-70639830-2b4b-4719-8f85-eb2a33464eb8.png)
+
 ## Frameworks
 - React version 17
 - Redux, redux-toolkit
